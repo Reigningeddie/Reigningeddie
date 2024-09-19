@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a cross platform <br>         mobile application called Grand Hand Slam. go check out the project @<br> https://github.com/Reigningeddie/Grand-Hand-Slam<br><br> 👯 Looking to collaborate on new and exciting<br>         React Native applications.<br><br>🤝 Looking for help exploring the ever-expanding IT world.<br><br>🌱 Currently learning how to implement express with React Native<br><br>💬 Ask me about dreams, aspirations or new vacation ideas.<br><br>⚡ Fun fact: I've been writing a script for a move called Drunk N' Cookin'<br>        you can find project details here: <br> https://github.com/Reigningeddie/drunkncookn-React
+🔭 Currently working on a cross platform <br>         mobile application called Grand Hand Slam. go check out the project @<br> https://github.com/Reigningeddie/Grand-Hand-Slam<br><br> 👯 Looking to collaborate on new and exciting<br>         React Native applications.<br><br>🤝 Looking for help exploring the ever-expanding IT world.<br><br>🌱 Currently learning how to implement express with React Native<br><br>💬 Ask me about dreams, aspirations or new vacation ideas.<br><br>⚡ Fun fact: I've been writing a script for a movie called Drunk N' Cookin'<br>        you can find project details here: <br> https://github.com/Reigningeddie/drunkncookn-React
 
 
 ## 🌐 Socials:
